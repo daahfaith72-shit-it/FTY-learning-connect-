@@ -1,0 +1,6 @@
+{
+  "name": "FTY",
+  "description": "FTY (Tembilla Faith Yenpang) education, community, short video, fast data bundle, and creator earnings platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
